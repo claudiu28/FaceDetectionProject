@@ -1,4 +1,5 @@
-#FaceDetectionProject
+FaceDetectionProject
+<br>
 Face detection using Python and OpenCV with webcam<br>
 <a href = "https://docs.python.org/3/">Python</a><br>
 <a href = "https://docs.opencv.org/4.x/">OpenCV</a><br>
